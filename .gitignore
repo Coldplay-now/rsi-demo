@@ -1,0 +1,5 @@
+# Local hosting identity and deployment state
+.openai/
+.DS_Store
+node_modules/
+*.tar.gz
